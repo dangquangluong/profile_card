@@ -82,7 +82,7 @@ body {
     background: linear-gradient(45deg, #ff1302, #fc3301);
     box-shadow: 0px 4px 30px rgb(19 127 212 / 70%);
 }
-.phone{
+.message{
     background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
     box-shadow: 0px 4px 30px rgb(120 64 190 / 60%);
 }
